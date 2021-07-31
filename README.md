@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javier-jaime
-- 👀 I’m interested in Applied Machine Learning to Project Delivery
-- 🌱 I’m currently learning Cloud Application Development 
-- 💞️ I’m looking to collaborate on generative models, knowledge graphs, representation learning on projects
+- 👀 I’m interested in AI Planning & ML Cost Estimating
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on AI Planning, Applied ML to Project Controls/Delivery
 - 📫 How to reach me www.linkedin.com/in/javier-a-jaime-serrano-7916a4/
 
 <!---
