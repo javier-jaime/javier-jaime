@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javier-jaime
-- 👀 I’m interested in AI Planning & ML Cost Estimating
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on AI Planning, Applied AI/ML to Project Delivery
+- 👀 I’m interested in Machine Learning Cost Estimating, AI Planning, Stock Recomendations.
+- 🌱 I’m currently learning Data Engineering & Reinforcement Learning
+- 💞️ I’m looking to collaborate on Applied AI/ML to Project Delivery 
 - 📫 How to reach me www.linkedin.com/in/javier-a-jaime-serrano-7916a4/
 
 <!---
