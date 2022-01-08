@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javier-jaime founder/owner of jjps.ca
-- 👀 I’m interested in Machine Learning Cost Estimating, Real Time Probabilistic Risk Analysis, Simulation Modeling & Quant Trading Strategies.
+- 👀 I’m interested in Machine Learning Cost Estimating, Real Time Probabilistic Risk Analysis, Simulation Modelling & Trading Strategies.
 - 🌱 I’m currently learning Data Engineering & Reinforcement Learning
-- 💞️ I’m looking to collaborate on Applied AI/ML to Project Delivery or Quants' stuff.
+- 💞️ I’m looking to collaborate on Applied AI/ML to Project Delivery, Simulation Modelling or Quants' stuff.
 - 📫 How to reach me www.linkedin.com/in/javier-a-jaime-serrano-7916a4/
 
 <!---
