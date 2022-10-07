@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javier-jaime founder/owner of jjps.ca
+- 👋 Hi, I’m @javier-jaime founder/owner of jjps.ca and partner of altscanada.com
 - 👀 I’m interested in Graph Analytics, Probabilistic Risk Analysis, Simulation Modelling & Quantitative Trading Strategies.
 - 🌱 I’m currently learning Analytics Engineering & Graph Machine Learning
 - 💞️ I’m looking to collaborate on Applied AI/ML to Project Delivery, Simulation Modelling or Quants' stuff.
