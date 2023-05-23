@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @javier-jaime founder/owner of jjps.ca and partner of altscanada.com
-- 👀 I’m interested in Graph Analytics, Probabilistic Risk Analysis, Simulation Modelling & Quantitative Trading Strategies.
-- 🌱 I’m currently learning Analytics Engineering & Graph Machine Learning
-- 💞️ I’m looking to collaborate on Applied AI/ML to Project Delivery, Simulation Modelling or Quants' stuff.
-- 📫 How to reach me www.linkedin.com/in/javier-a-jaime-serrano-7916a4/
+- 👀 I’m interested in Graph Analytics, Risk Analysis, Simulation & Optimization.
+- 🌱 I’m currently learning Probabilistic Graphical Models & Reinforcement Learning.
+- 💞️ I’m looking to collaborate on Applied AI/ML to Project Delivery, Simulation & Optimization.
+- 📫 How to reach me https://www.linkedin.com/in/javier-a-jaime/
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javier-jaime/Tool-Crib/HEAD)
 
 <!---
