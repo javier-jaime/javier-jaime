@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javier-jaime founder/owner of jjps.ca and partner of altscanada.com
+- 👋 Hi, I’m @javier-jaime founder/owner of graph4va.com and independent contractor at altscanada.com
 - 👀 I’m interested in Process Mining, Graph Analytics, Simulation & Optimization.
 - 🌱 I’m currently learning Orchestration with LangChain & Knowledge Graphs.
 - 💞️ I’m looking to collaborate on Process Mining, Graph Analytics, Simulation & Optimization.
