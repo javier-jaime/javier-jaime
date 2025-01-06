@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @javier-jaime founder/owner of graph4va.com and independent contractor at altscanada.com
-- 👀 I’m interested in Process Mining, Graph Analytics, Simulation & Optimization.
+- 👋 Hi, I’m @javier-jaime co-founder of graph4va.com and independent consultant.
+- 👀 I’m interested in Graph Analytics, Process Mining, Simulation & Optimization.
 - 🌱 I’m currently learning Orchestration with LangChain & Knowledge Graphs.
-- 💞️ I’m looking to collaborate on Process Mining, Graph Analytics, Simulation & Optimization.
+- 💞️ I’m looking to collaborate on Graph Analytics, Process Mining, Simulation & Optimization.
 - 📫 How to reach me https://www.linkedin.com/in/javier-a-jaime/
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javier-jaime/Tool-Crib/HEAD)
 
